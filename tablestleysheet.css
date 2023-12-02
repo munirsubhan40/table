@@ -1,0 +1,14 @@
+body{
+background: white;
+}
+table,th, td{
+    border:2px solid;
+    border-collapse: collapse 
+    }
+    th,td,tr{
+        text-align: center; color:black(255, 255, 255);
+    }
+    tr:hover{
+        background:rgb(255, 0, 0);
+        
+    }
